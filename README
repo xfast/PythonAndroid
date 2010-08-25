@@ -3,6 +3,8 @@ Slides and sample code for Python on Android
 The slides show a very quick introduction to getting started with SL4A
 (SL4A is the Google Scripting Layer for Android)
 
+The examples in the slides are from the tutorials (see below).
+
 See the project web site for tutorials and short videos on the details:
 http://code.google.com/p/android-scripting/
 
