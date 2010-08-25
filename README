@@ -1,2 +1,38 @@
 Slides and sample code for Python on Android
 
+The slides show a very quick introduction to getting started with SL4A
+(SL4A is the Google Scripting Layer for Android)
+
+See the project web site for tutorials and short videos on the details:
+http://code.google.com/p/android-scripting/
+
+Getting Started videos:
+http://www.youtube.com/user/damonkohler#g/c/07A81E6CE96F158B
+Adding an interpreter
+http://www.youtube.com/user/damonkohler#p/u/6/TAT-full6Kc
+Adding a new script
+http://www.youtube.com/user/damonkohler#p/u/4/yETKw1FsHmo
+Using the API browser
+http://www.youtube.com/user/damonkohler#p/u/5/4bsbzLEEdQs
+
+Note that you can write the code ALSO on your laptop. All the video examples show how to write scripts on your phone, but that is just one way to do it.
+
+You can also control an android phone remotely while running scripts on your computer (I have not tried this yet, but it's from the documentation):
+http://code.google.com/p/android-scripting/wiki/RemoteControl
+
+The user guide and API guide + reference are at:
+http://code.google.com/p/android-scripting/wiki/UserGuide
+
+
+Tutorials (including the bar code & say_weather examples):
+http://code.google.com/p/android-scripting/wiki/Tutorials
+
+Barcode scanner in 6 lines:
+http://www.mattcutts.com/blog/android-barcode-scanner/
+
+Talking weather forecast:
+http://www.prupert.co.uk/2010/04/28/python-android-weather-forecast-script/
+
+Note that there is a shorter talking weather forecast (speak_weather.py) distributed as part of the python interpreter for SL4A
+
+
